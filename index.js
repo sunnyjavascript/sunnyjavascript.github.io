@@ -1,5 +1,3 @@
-// <⚠️ DONT DELETE THIS ⚠️>
-// <⚠️ /DONT DELETE THIS ⚠️>
 const toDoForm = document.querySelector(".formOne"),
   toDoInput = toDoForm.querySelector("input"),
   toDoList = document.querySelector(".tdOne"),
